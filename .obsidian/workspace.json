@@ -15,6 +15,7 @@
               "state": {
                 "file": "Linux Enviroment.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -62,16 +63,6 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
-          {
-            "id": "426c7e80559f9cb6",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
           }
         ]
       }
@@ -88,69 +79,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c20d7eebed85b5c6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
-            }
-          },
-          {
-            "id": "8f13e3a577f6ba0d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "README 的出链列表"
-            }
-          },
-          {
-            "id": "6256153b253939a9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
             "id": "b3692a3fa5a8dfd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux Enviroment.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Linux Enviroment 的大纲"
+            }
+          },
+          {
+            "id": "5d0c3575a5907747",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +114,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66dcba6bca693503",
+  "active": "5d0c3575a5907747",
   "lastOpenFiles": [
     "README.md",
     "Linux Enviroment.md",

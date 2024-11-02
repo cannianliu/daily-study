@@ -32,7 +32,7 @@ chsh -s $(which zsh)
 ```
 
 ## github 配置
-> ssh 配置
+
 本地创建ssh密钥对
 ```shell
 # 替换为自己的邮箱

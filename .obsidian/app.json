@@ -2,5 +2,7 @@
   "readableLineLength": false,
   "showIndentGuide": false,
   "spellcheck": false,
-  "attachmentFolderPath": "asserts"
+  "attachmentFolderPath": "asserts",
+  "promptDelete": false,
+  "showInlineTitle": false
 }
