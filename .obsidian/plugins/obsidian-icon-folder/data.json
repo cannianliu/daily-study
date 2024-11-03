@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
       "LiAlignJustify"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +30,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Linux Enviroment.md": "LiAlignJustify"
+  "Linux Enviroment.md": "LiAlignJustify",
+  "rust/tauri.md": "LiAperture"
 }

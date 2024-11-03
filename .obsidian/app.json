@@ -4,5 +4,6 @@
   "spellcheck": false,
   "attachmentFolderPath": "asserts",
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "strictLineBreaks": true
 }
