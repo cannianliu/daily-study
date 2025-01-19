@@ -4,56 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ef78bba9598394c8",
+        "id": "c3d3aa6a3628d0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8d12e0235ac540",
+            "id": "1b8b1ad25ad6ea29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0b6f1294b36deb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frontend/HTML.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML"
-            }
-          },
-          {
-            "id": "26e16210421bea31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Enviroment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Enviroment"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 466.5
   },
   "right": {
     "id": "f8a5710b86babe09",
@@ -114,11 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux Enviroment.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Linux Enviroment 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -136,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,26 +108,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26e16210421bea31",
+  "active": "5d0c3575a5907747",
   "lastOpenFiles": [
-    "frontend/HTML.md",
-    "Linux Enviroment.md",
-    "frontend/JavaScript.md",
+    "frontend/Vue3.md",
+    "asserts/1683166212929-6cc8b8b6-2c4a-4927-8226-65d1f1f4f337.gif",
+    "asserts/image-20231119185900990.png",
+    "asserts/pinia_example.gif",
+    "asserts/image-20231018144351536.png",
+    "asserts/computed.gif",
+    "asserts/自动补充value.png",
+    "asserts/1696662197101-55d2b251-f6e5-47f4-b3f1-d8531bbf9279.gif",
+    "asserts/1696662200734-1bad8249-d7a2-423e-a3c3-ab4c110628be.gif",
+    "asserts/1696662249851-db6403a1-acb5-481a-88e0-e1e34d2ef53a.gif",
+    "asserts/1696662256560-7239b9f9-a770-43c1-9386-6cc12ef1e9c0.gif",
     "frontend/CSS.md",
-    "asserts/image-20211028162603931.png",
-    "Docker.md",
-    "asserts/image-20211018164354143.png",
-    "asserts/image-20211018155320590.png",
-    "asserts/image-20211018145556540.png",
-    "asserts/image-20211012111818233.png",
-    "asserts/image-20211012113811762.png",
-    "asserts/image-20211011113846185.png",
-    "asserts/image-20211011112519974.png",
-    "asserts/image-20211011112042699.png",
-    "asserts/image-20211009145535533.png",
-    "README.md",
-    "frontend",
     "rust/tauri.md",
+    "Linux Enviroment.md",
+    "enjoyComic.md",
+    "tools/Obsidian.md",
+    "Docker.md",
+    "README.md",
+    "tools",
+    "frontend/TypeScript.md",
+    "frontend/JavaScript.md",
+    "frontend/HTML.md",
+    "frontend",
     "rust",
     "asserts",
     "assert"

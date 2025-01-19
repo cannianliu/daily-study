@@ -2,7 +2,6 @@
 
 活到老 学到老 =v=
 
-
 **文档工具**
 - obsidian
 
@@ -14,3 +13,8 @@
 	- nodejs
 - Rust
 	- tauri
+- frontend
+	- css
+	- html
+	- js
+- Docker

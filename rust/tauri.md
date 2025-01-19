@@ -64,6 +64,9 @@ pnpm tauri android dev
 
 运行后出现如下界面
 
+> 如果出现白屏的问题，可以将启动命令改为：
+> WEBKIT_DISABLE_COMPOSITING_MODE=1 AGENTS=1 pnpm tauri dev
+
 ![[Pasted image 20241103163935.png]]
 
 
